@@ -1,6 +1,6 @@
 {
   "name": "saml-proxy",
-  "description": "",
+  "description": "SAML proxy built with Node.js and run on AWS ECS/Fargate.",
   "version": "0.1.0",
   "author": "Yuki Kodama <endflow.net@gmail.com>",
   "publish": false,

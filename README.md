@@ -1,5 +1,7 @@
 # saml-proxy
 
+SAML proxy built with Node.js and run on AWS ECS/Fargate.
+
 ## Requirements
 
 - Docker 19.03.8
